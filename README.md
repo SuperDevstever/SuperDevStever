@@ -63,6 +63,7 @@ Construindo soluções escaláveis com foco em automação e inteligência aplic
 <br/>
 
 ### 📊 Estatísticas
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuperDevstever&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDevstever&layout=compact&theme=tokyonight)
