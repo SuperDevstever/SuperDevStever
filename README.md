@@ -1,8 +1,13 @@
 # 👩🏻‍💻 Stever Mayke
 
 **`Desenvolvedor back-end`**
+💻 Desenvolvedor Back-end com foco em Python e Inteligência Artificial
 
-Me chamo Stever Mayke, tenho 32 anos e sou natural de Joinville. Me formei no Entra21, um curso profissionalizane e intensivo de programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e aqui, consigo compartilhar meus projetos web com a comunidade.
+🚀 Experiência em desenvolvimento de APIs, automações e integração com IA.
+📚 Estudante de Análise e Desenvolvimento de Sistemas.
+🎯 Buscando oportunidade como Desenvolvedor Back-end / IA.
+
+Apaixonado por tecnologia, automação e soluções inteligentes aplicadas a negócios
 ---
 
 ### 🤖 Linguagens e Tecnologias
